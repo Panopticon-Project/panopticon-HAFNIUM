@@ -13,3 +13,5 @@ https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-schedule
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
 
 https://www.courtlistener.com/docket/66713718/securities-and-exchange-commission-v-covington-burling-llp/
+
+https://www.reuters.com/legal/government/sec-sues-covington-law-firm-names-300-clients-caught-up-hack-2023-01-11/
