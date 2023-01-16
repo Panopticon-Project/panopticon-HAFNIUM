@@ -11,3 +11,5 @@ https://www.wired.com/story/fbi-takes-drastic-step-to-fight-china-hacking-spree
 https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/
 
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
+
+https://www.courtlistener.com/docket/66713718/securities-and-exchange-commission-v-covington-burling-llp/
